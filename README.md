@@ -38,8 +38,8 @@ In this project I was given a web-based application that reads RSS feeds. The or
 
 * Jasmine Asynchronous work: https://jasmine.github.io/tutorials/async
 
-                                      ***
+                                                ***
 
-###Project Implementation
+### Project Implementation
 
 *This project was created by **Aikaterini Alvizou** for the Google Udacity Nanodegree FEND.*
